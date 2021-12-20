@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MoviesWeb.Data;
+using MoviesWeb.DataAccess;
 using MoviesWeb.Models;
 
 namespace MoviesWeb.Controllers
